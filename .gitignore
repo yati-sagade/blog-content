@@ -1,0 +1,6 @@
+*.swp
+*.rst~
+*.swo
+*.pyc
+*.pid
+./output
