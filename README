@@ -2,7 +2,7 @@
 after adding an rst to ./content. This repo does NOT track output/ or ghoutput/
 
 ./output will be generated everytime you generate html. COPY the new files from
-here to ./ghoutput. 
+here to ../ghoutput. 
 
 ./ghoutput is a repo with the remote yati-sagade/yati-sagade.github.com. PUSH to
 see changes in the blog online. This contains finished HTML files, and not rsts.
